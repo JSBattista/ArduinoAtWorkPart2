@@ -1,4 +1,4 @@
-# Arduino A tWork Part2
+# Arduino At Work Part2
 In this second around of Arduino on the job, the situation presented was a little more challenging and but not complex. What we needed was a device that can connect to multiple 
 test stations and generate a unique number from 1 to 9999. That number would sit on the tail end of a serial number comprised of some plant/model/make codes and a julian date. 
 This number must be unique, but with multiple stations doing the same thing, what's an easy way to keep track? 
